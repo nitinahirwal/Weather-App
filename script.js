@@ -6,6 +6,8 @@ const options = {
   }
 };
 
+\\Start
+
 const getWeather = (city)=> { 
   cityName.innerHTML = city
 
@@ -39,3 +41,6 @@ getWeather(city.value)
 })
 
 getWeather("Delhi")
+
+
+\\End

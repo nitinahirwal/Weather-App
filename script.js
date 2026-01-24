@@ -43,4 +43,3 @@ getWeather(city.value)
 getWeather("Delhi")
 
 
-\\End
